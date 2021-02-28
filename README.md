@@ -12,4 +12,4 @@ Practice more:
 2) Create docker image 
 3) Create new services
 4) Additional integration
-
+5) Test End to End
