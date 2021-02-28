@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo project to install test container in EKS.
+This is a demo project to install test container in EKS!
